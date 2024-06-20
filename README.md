@@ -1,6 +1,6 @@
 # Meta-ED: Cross-lingual Event Detection Using Meta-learning for Indian Languages 
 ### Dataset
-For collecting the dataset, please go to the link and fill in the fill to collect the password: 
+For collecting the dataset, please go to the link and fill in the registration form to collect the password: 
 
 https://ednilfire.github.io/ednil/2020/dataset.html
 
