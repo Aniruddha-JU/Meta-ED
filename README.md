@@ -11,6 +11,7 @@ https://ednilfire.github.io/ednil/2020/dataset.html
 - python 3.7
 - pytorch 1.0.0
 - pytorch_pretrained_bert
+  
 pip install -r requirements.txt
 
 To train the code:
